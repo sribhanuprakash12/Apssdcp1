@@ -1,0 +1,46 @@
+{
+	"profile":{
+		"img":"profile pic.jpg",
+		"name":"Bhanu Prakash",
+		"Roll":"16A31A0556",
+		"place":"kakinada",
+		"des":"student",
+		"contactno":"905703150"
+	},
+	"career":{
+		"info":"I want a placement in Microsoft"
+	},
+	"education":[
+		{
+			"sno":"1",
+			"Degree":"B.Tech",
+			"INstitute":"Pragati Engg Colg",
+			"Percentage":"99.9%",
+			"yop":"2020"
+		},
+		{
+			"sno":"2",
+			"Degree":"Intermediate",
+			"INstitute":"Geetam",
+			"Percentage":"98%",
+			"yop":"2016"
+		},
+		{
+			"sno":"3",
+			"Degree":"10th",
+			"INstitute":"Saranya",
+			"Percentage":"97.9%",
+			"yop":"2014"
+		}
+	],
+	"languages":[
+		{
+			"lang":"English"
+		},
+		{
+			"lang":"Telugu"
+		},{
+			"lang":"Hindi"
+		}
+	]
+}

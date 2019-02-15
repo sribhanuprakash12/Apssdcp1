@@ -1,0 +1,139 @@
+body{
+	background: #lightgreen;
+	
+}
+.sub1{
+	background: pink;
+	margin: 5%;
+	text-align: center;
+	height: 40%;
+	width: 70%;
+	border-radius: 5%;
+	box-shadow: 3px 3px 3px 3px;
+}
+.maindiv{
+	background: orange;
+	display: flex;
+	justify-content: space-around;
+	margin: 10%;
+	width: 70%;
+	border-radius: 5%;
+	box-shadow: 3px 3px 3px 3px;
+}
+.subdiv{
+	background: lightblue;
+	padding: 2%;
+	width: 90%;
+	justify-content: space-around;
+	margin: 5%;
+	border-radius: 5%;
+	text-align: left;
+	box-shadow: 4px 4px 4px 4px;
+}
+img{
+	justify-content: center;
+	height: 10%;
+	width: 50%;
+	margin: 3%;
+	border-radius: 4%;
+}
+table{
+	margin-left: 15%;
+	
+	overflow-x: auto;
+}
+@media screen and (min-width: 320px) and (max-width: 480px) {
+	body{
+	background: #AF7DFA;
+	
+}
+.sub1{
+	background: #7DD1FA;
+	margin: 10%;
+	text-align: center;
+	height: 40%;
+	width: 70%;
+	border-radius: 5%;
+	box-shadow: 3px 3px 3px 3px;
+}
+.maindiv{
+	background: indigo;
+	display: inline-block;
+	justify-content: space-around;
+	margin: 10%;
+	width: 98%;
+	border-radius: 5%;
+	box-shadow: 3px 3px 3px 3px;
+}
+.subdiv{
+	background: #7DFAD9;
+	padding: 2%;
+	width: 85%;
+	justify-content: space-around;
+	margin: 5%;
+	border-radius: 5%;
+	text-align: left;
+	box-shadow: 4px 4px 4px 4px;
+}
+img{
+	justify-content: center;
+	height: 10%;
+	width: 50%;
+	margin: 3%;
+	border-radius: 4%;
+}
+table{
+	margin-left: 1%;
+	overflow-x: auto;
+}
+
+
+}
+@media screen and (min-width: 480px) and (max-width: 720px) {
+	body{
+	background: #7DFA7D;
+	
+}
+.sub1{
+	background: #B3FA7D;
+	margin: 5%;
+	text-align: center;
+	width: 30%;
+	border-radius: 3%;
+	box-shadow: 3px 3px 3px 3px;
+}
+.maindiv{
+	background: #B3FA7D;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin: 5%;
+	width: 95%;
+	border-radius: 5%;
+	box-shadow: 3px 3px 3px 3px;
+
+}
+.subdiv{
+	background: #FAD57D;
+	padding: 2%;
+	width: 45%;
+	justify-content: space-around;
+	margin: 5%;
+	border-radius: 5%;
+	text-align: left;
+	box-shadow: 4px 4px 4px 4px;
+}
+img{
+	justify-content: center;
+	height: 10%;
+	width: 50%;
+	margin: 3%;
+	border-radius: 4%;
+}
+table{
+	margin-left: 1%;
+	overflow-x: auto;
+}
+
+
+}
